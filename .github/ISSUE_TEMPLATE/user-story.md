@@ -13,6 +13,10 @@ As a <user type>
 I want to <user action>
 So that I can <user goal>
 
+## Dependencies
+
+- [ ] <link>
+
 ## Additional info
 
 - Related epic: <link>
